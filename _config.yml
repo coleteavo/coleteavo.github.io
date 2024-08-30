@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "pt-BR"
 title                    : "coleTEAvo / Coletivo TEA da UFSB"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -21,12 +21,13 @@ repository               : "coleteavo/coleteavo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpeg"
+  name             : "coleTEAvo"
   pronouns         : # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "🌻 Somos o coletivo autista da comunidade da UFSB.
+Discentes, Docentes, TAE, egressa? Se você está no espectro, nós estamos com você!🫂"
+  location         : "Bahia (BR)"
+  employer         : "Universidade Federal do Sul da Bahia"
   uri              : # URL
   email            : "none@example.org"
 
@@ -43,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "coleteavo"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -55,7 +56,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : @coleteavo
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
